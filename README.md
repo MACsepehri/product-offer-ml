@@ -8,8 +8,8 @@ The product dataset columns must be like this :
 And the users dataset columns :
 <p>username,category,price,original_price,total_products_discount_percent,stock,in_cart,bought_it</p>
 
-for filling your datasets, you can see our sample datasets :
-<a href='./all.csv'>Products Dataset</a>
+for filling your datasets, you can see our sample datasets :<br>
+<a href='./all.csv'>Products Dataset</a><br>
 <a href='./user.csv'>Users Dataset</a>
 ------------------------------------------------
 a small usage :
