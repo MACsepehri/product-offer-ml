@@ -43,7 +43,7 @@ for data in predict_result['product']:
 <pre>
 Proposal Offer: 21%
 Proposal Product Data: 
-
+# ---- products that user might buy them ---- #
 product_id   :   10045
 product_name   :   Cougar Advanced
 category   :   Gaming
