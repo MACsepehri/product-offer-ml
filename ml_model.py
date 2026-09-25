@@ -23,7 +23,7 @@ class ml_model:
         self.users = Reader(user_data_filepath)
 
     def need_offer(self, user_data):
-        if len(list(user_data[::-1][0])) < 2:
+        if len(list(user_data[::-1][0]))+len(list(user_data[::-1][1])) < 2:
             return False
         return True
 
