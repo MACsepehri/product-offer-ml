@@ -22,6 +22,22 @@ class Reader:
     def content(self): return self.__content
 
 
+class Response:
+    def __init__(self, product, similarity_score, offer_score, user_data, offer):
+        self.data = (product,similarity_score,offer_score,user_data,offer)
+    
+    @property
+    def product(self): return self.data[0]
+    @property
+    def similarity_score(self): return self.data[1]
+    @property
+    def offer_score(self): return self.data[2]
+    @property
+    def user_data(self): return self.data[3]
+    @property
+    def offer(self): return self.data[4]
+
+
 class ml_model:
     '''
         ml_model() class is the main class for generating a offer or checking does user need offer or not.
@@ -174,12 +190,13 @@ class ml_model:
         # offer score
         score_result = self.predict_offer_score(user_data[0])
 
-        return {
-            'product': best_product,
-            'similarity_score': round(best_score, 4),
-            'offer_score': round(score_result, 4),
-            'offer': f'{int(score_result*5)}%'
-        }
+        return Response(
+            best_product,
+            round(best_score, 4),
+            round(score_result, 4),
+            user_data,
+            f'{int(score_result*5)}%'
+        )
 
     @property
     def rand_user(self):
