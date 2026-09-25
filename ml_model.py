@@ -173,7 +173,6 @@ class ml_model:
 
         # offer score
         score_result = self.predict_offer_score(user_data[0])
-        print(f"Offer score: {score_result}")
 
         return {
             'product': best_product,
