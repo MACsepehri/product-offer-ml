@@ -22,5 +22,10 @@ class ml_model:
         self.products = Reader(product_data_filepath)
         self.users = Reader(user_data_filepath)
 
+    def need_offer(self, user_data):
+        if len(list(user_data[::-1][0])) < 2:
+            return False
+        return True
+
     @property
     def rand_user(self): return random.choice(self.users.content)
