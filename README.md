@@ -23,6 +23,52 @@ user = model.rand_user # it returns a list, for more info check the function.
 predict_result = model.predict(user) # returns a dict of the most similar product and a offer.
 print(predict_result)
 </pre>
+----------------------------------------------------
+Another usage + Result: 
+<pre>
+from ml_model import ml_model
+
+model = ml_model()
+model.fit_data()
+user = model.rand_user
+
+predict_result = model.predict(user)
+
+print(f'Proposal Offer: {predict_result["offer"]}')
+print(f'Proposal Product Data: \n')
+for data in predict_result['product']:
+    print(data, "  :  ", predict_result['product'][data])
+</pre>
+<p>Result of a random user :</p>
+<pre>
+Proposal Offer: 21%
+Proposal Product Data: 
+
+product_id   :   10045
+product_name   :   Cougar Advanced
+category   :   Gaming
+subcategory   :   Gaming Chair
+brand   :   Cougar
+price   :   15552810
+original_price   :   19201000
+discount_percent   :   19
+stock   :   618
+rating   :   5
+review_count   :   7532
+sales_count   :   6339
+view_count   :   989258
+cart_add_count   :   64637
+wishlist_count   :   12610
+return_rate   :   0.034
+seller_count   :   14
+shipping_days   :   1
+is_original   :   1
+color   :   Black
+weight_grams   :   2543
+demand_score   :   79.6
+popularity_score   :   75.1
+target_sales_next_7_days   :   237
+</pre>
 ______________________________________________
 <h2>By MACsepehri</h2>
 <a href='mailto:macsepehri@gmail.com'>Contact with E-mail</a>
