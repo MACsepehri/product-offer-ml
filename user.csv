@@ -1,41 +1,41 @@
 username,category,price,original_price,total_products_discount_percent,stock,in_cart,bought_it
-user_001,Laptop,48270880,49256000,2,6,"['Apple-Apple Inspiron 5']","['Canon-Canon Alpha'], ['Springer-Springer Pro']"
-user_002,Gaming,12883959,18947000,32,271,"['LG-LG Advanced']","['Secretlab-Secretlab Standard'], ['Apple-Apple Premium'], ['8BitDo-8BitDo Pro Controller']"
-user_003,Fashion,2496740,4027000,38,44,"['Puma-Puma Plus']","['Apple-Apple ThinkPad 34'], ['Nikon-Nikon D']"
-user_004,Digital Products,2682030,3887000,31,566,"['Microsoft-Microsoft PlayStation 5'], ['Nike-Nike Advanced']","['Crucial-Crucial 990 Pro 34'], ['Apple-Apple 16'], ['Manning-Manning Standard']"
-user_005,Home Appliances,63090300,97062000,35,836,"['Canon-Canon Advanced']","['Xiaomi-Xiaomi Pro'], ['Packt-Packt Advanced']"
-user_006,Fashion,8160000,10200000,20,2318,"['Samsung-Samsung 14']","['Adidas-Adidas Pro'], ['ASUS-ASUS Legion 15'], ['Samsung-Samsung KC3000 27']"
-user_007,Gaming,71517900,75282000,5,20,"[]","['8BitDo-8BitDo Pro Controller'], ['Penguin-Penguin Plus']"
-user_008,Camera,122352000,122352000,0,665,"['Adidas-Adidas 574']","['Fujifilm-Fujifilm Alpha'], ['HP-HP Katana 27']"
-user_009,Home Appliances,72638720,82544000,12,646,"['Bosch-Bosch Premium']","['Sony-Sony Xbox Wireless Controller'], ['Cambridge-Cambridge Standard']"
-user_010,Mobile,15238880,16564000,8,35,"['Bose-Bose WH 16']","['Lenovo-Lenovo Pro'], ['GoPro-GoPro HERO']"
-user_011,Fashion,7825000,7825000,0,831,"['Samsung-Samsung Plus']","['New Balance-New Balance Suede'], ['Acer-Acer Nitro 9']"
-user_012,Camera,14180540,16489000,14,187,"['Cougar-Cougar Advanced']","['DJI-DJI X'], ['Packt-Packt Advanced']"
-user_013,Mobile,42116600,67930000,38,8,"['Logitech-Logitech G Pro 5'], ['Tamron-Tamron Premium']","['Google-Google 13 Pro'], ['Daikin-Daikin Premium']"
-user_014,Laptop,65993899,94277000,30,177,"['The North Face-The North Face Standard']","['MSI-MSI Nitro 5'], ['Tamron-Tamron Plus']"
-user_015,Gaming,74174760,74924000,1,1239,"['No Starch Press-No Starch Press Advanced']","['Nintendo-Nintendo Xbox Series X'], ['Xiaomi-Xiaomi Standard']"
-user_016,Digital Products,19289520,26424000,27,3056,"['Philips-Philips Premium']","['WD-WD SN850X 32'], ['Dell-Dell Yoga 65']"
-user_017,Camera,102794640,109356000,6,434,"['Samsonite-Samsonite Premium']","['Sigma-Sigma Premium'], ['Razer-Razer Pro']"
-user_018,Mobile,5831910,9257000,37,0,"['OReilly-OReilly Standard']","['OnePlus-OnePlus 14'], ['Gree-Gree Pro']"
-user_019,Laptop,77031700,81086000,5,43,"['Kingston-Kingston P5 Plus 10']","['Lenovo-Lenovo ThinkPad 15'], ['Nikon-Nikon Plus']"
-user_020,Fashion,1083880,1106000,2,79,"['Microsoft-Microsoft Pro Controller'], ['Springer-Springer Plus']","['Adidas-Adidas Premium'], ['Huawei-Huawei Plus']"
-user_021,Books,3409560,4158000,18,9,"['Whirlpool-Whirlpool Premium'], ['Canon-Canon Z']","['Pearson-Pearson Standard'], ['Apple-Apple MacBook Air 9'], ['Samsonite-Samsonite Premium']"
-user_022,Camera,68406460,110333000,38,176,"['Eastpak-Eastpak Advanced']","['Canon-Canon Advanced'], ['Corsair-Corsair Rival 3']"
-user_023,Gaming,48396840,51486000,6,32,"['Samsung-Samsung Plus']","['DXRacer-DXRacer Premium'], ['Vintage-Vintage Advanced'], ['Eastpak-Eastpak Pro']"
-user_024,Laptop,33103000,33103000,0,1600,"['Beko-Beko Advanced'], ['Sigma-Sigma Advanced']","['HP-HP Inspiron 9'], ['Keychron-Keychron K8 27']"
-user_025,Fashion,10676160,11121000,4,90,"['Sony-Sony Z']","['Nike-Nike Standard'], ['Nintendo-Nintendo Xbox Series X']"
-user_026,Mobile,37325000,37325000,0,792,"['HarperCollins-HarperCollins Plus']","['Apple-Apple 16'], ['LG-LG Premium']"
-user_027,Digital Products,35718080,38824000,8,884,"['Acer-Acer Katana 3']","['SteelSeries-SteelSeries Rival 4'], ['Fujifilm-Fujifilm Alpha']"
-user_028,Fashion,1253050,1319000,5,696,"['8BitDo-8BitDo Xbox Wireless Controller']","['The North Face-The North Face Premium'], ['Oxford-Oxford Standard']"
-user_029,Mobile,40314569,60171000,33,849,"['Samsung-Samsung Plus']","['Xiaomi-Xiaomi 16'], ['JBL-JBL Soundcore 10'], ['Lenovo-Lenovo Premium']"
-user_030,Laptop,61833620,63746000,3,133,"['GoPro-GoPro Osmo Action']","['ASUS-ASUS Nitro 5'], ['Adidas-Adidas 574']"
-user_031,Gaming,71393840,77602000,8,172,"['Penguin-Penguin Plus']","['Cougar-Cougar Premium'], ['Samsung-Samsung Standard']"
-user_032,Home Appliances,47503780,76619000,38,1371,"['Razer-Razer MX Keys 10']","['Bosch-Bosch Plus'], ['Nikon-Nikon D']"
-user_033,Fashion,5445120,5672000,4,197,"['MSI-MSI Nitro 2']","['New Balance-New Balance Suede'], ['Manning-Manning Pro']"
-user_034,Mobile,46157480,75668000,39,609,"['Sony-Sony Switch OLED']","['Google-Google 14T'], ['WD-WD P5 Plus 27']"
-user_035,Home Appliances,59880360,68828000,13,71,"['Canon-Canon EOS']","['Daikin-Daikin Premium'], ['Puma-Puma Standard']"
-user_036,Books,3334769,4833000,31,214,"['Lenovo-Lenovo MacBook Air 16']","['Cambridge-Cambridge Advanced'], ['Apple-Apple Advanced']"
-user_037,Gaming,65682580,67714000,3,156,"['Logitech-Logitech MX Keys 15']","['Razer-Razer Premium'], ['Whirlpool-Whirlpool Advanced']"
-user_038,Fashion,2940300,2970000,1,35,"['Sony-Sony Alpha']","['Adidas-Adidas Pro'], ['Dell-Dell ZenBook 9']"
-user_039,Mobile,32501760,33856000,4,896,"['No Starch Press-No Starch Press Advanced']","['Samsung-Samsung S24'], ['Kingston-Kingston KC3000 2']"
-user_040,Home Appliances,21243200,24140000,12,305,"['Nintendo-Nintendo Pro Controller']","['Beko-Beko Pro'], ['Nikon-Nikon D']"
+user_001,Laptop,48270880,49256000,2,6,['Apple-Apple Inspiron 5'],['Canon-Canon Alpha']; ['Springer-Springer Pro']
+user_002,Gaming,12883959,18947000,32,271,['LG-LG Advanced'],['Secretlab-Secretlab Standard']; ['Apple-Apple Premium']; ['8BitDo-8BitDo Pro Controller']
+user_003,Fashion,2496740,4027000,38,44,['Puma-Puma Plus'],['Apple-Apple ThinkPad 34']; ['Nikon-Nikon D']
+user_004,Digital Products,2682030,3887000,31,566,['Microsoft-Microsoft PlayStation 5']; ['Nike-Nike Advanced'],['Crucial-Crucial 990 Pro 34']; ['Apple-Apple 16']; ['Manning-Manning Standard']
+user_005,Home Appliances,63090300,97062000,35,836,['Canon-Canon Advanced'],['Xiaomi-Xiaomi Pro']; ['Packt-Packt Advanced']
+user_006,Fashion,8160000,10200000,20,2318,['Samsung-Samsung 14'],['Adidas-Adidas Pro']; ['ASUS-ASUS Legion 15']; ['Samsung-Samsung KC3000 27']
+user_007,Gaming,71517900,75282000,5,20,[],['8BitDo-8BitDo Pro Controller']; ['Penguin-Penguin Plus']
+user_008,Camera,122352000,122352000,0,665,['Adidas-Adidas 574'],['Fujifilm-Fujifilm Alpha']; ['HP-HP Katana 27']
+user_009,Home Appliances,72638720,82544000,12,646,['Bosch-Bosch Premium'],['Sony-Sony Xbox Wireless Controller']; ['Cambridge-Cambridge Standard']
+user_010,Mobile,15238880,16564000,8,35,['Bose-Bose WH 16'],['Lenovo-Lenovo Pro']; ['GoPro-GoPro HERO']
+user_011,Fashion,7825000,7825000,0,831,['Samsung-Samsung Plus'],['New Balance-New Balance Suede']; ['Acer-Acer Nitro 9']
+user_012,Camera,14180540,16489000,14,187,['Cougar-Cougar Advanced'],['DJI-DJI X']; ['Packt-Packt Advanced']
+user_013,Mobile,42116600,67930000,38,8,['Logitech-Logitech G Pro 5']; ['Tamron-Tamron Premium'],['Google-Google 13 Pro']; ['Daikin-Daikin Premium']
+user_014,Laptop,65993899,94277000,30,177,['The North Face-The North Face Standard'],['MSI-MSI Nitro 5']; ['Tamron-Tamron Plus']
+user_015,Gaming,74174760,74924000,1,1239,['No Starch Press-No Starch Press Advanced'],['Nintendo-Nintendo Xbox Series X']; ['Xiaomi-Xiaomi Standard']
+user_016,Digital Products,19289520,26424000,27,3056,['Philips-Philips Premium'],['WD-WD SN850X 32']; ['Dell-Dell Yoga 65']
+user_017,Camera,102794640,109356000,6,434,['Samsonite-Samsonite Premium'],['Sigma-Sigma Premium']; ['Razer-Razer Pro']
+user_018,Mobile,5831910,9257000,37,0,['OReilly-OReilly Standard'],['OnePlus-OnePlus 14']; ['Gree-Gree Pro']
+user_019,Laptop,77031700,81086000,5,43,['Kingston-Kingston P5 Plus 10'],['Lenovo-Lenovo ThinkPad 15']; ['Nikon-Nikon Plus']
+user_020,Fashion,1083880,1106000,2,79,['Microsoft-Microsoft Pro Controller']; ['Springer-Springer Plus'],['Adidas-Adidas Premium']; ['Huawei-Huawei Plus']
+user_021,Books,3409560,4158000,18,9,['Whirlpool-Whirlpool Premium']; ['Canon-Canon Z'],['Pearson-Pearson Standard']; ['Apple-Apple MacBook Air 9']; ['Samsonite-Samsonite Premium']
+user_022,Camera,68406460,110333000,38,176,['Eastpak-Eastpak Advanced'],['Canon-Canon Advanced']; ['Corsair-Corsair Rival 3']
+user_023,Gaming,48396840,51486000,6,32,['Samsung-Samsung Plus'],['DXRacer-DXRacer Premium']; ['Vintage-Vintage Advanced']; ['Eastpak-Eastpak Pro']
+user_024,Laptop,33103000,33103000,0,1600,['Beko-Beko Advanced']; ['Sigma-Sigma Advanced'],['HP-HP Inspiron 9']; ['Keychron-Keychron K8 27']
+user_025,Fashion,10676160,11121000,4,90,['Sony-Sony Z'],['Nike-Nike Standard']; ['Nintendo-Nintendo Xbox Series X']
+user_026,Mobile,37325000,37325000,0,792,['HarperCollins-HarperCollins Plus'],['Apple-Apple 16']; ['LG-LG Premium']
+user_027,Digital Products,35718080,38824000,8,884,['Acer-Acer Katana 3'],['SteelSeries-SteelSeries Rival 4']; ['Fujifilm-Fujifilm Alpha']
+user_028,Fashion,1253050,1319000,5,696,['8BitDo-8BitDo Xbox Wireless Controller'],['The North Face-The North Face Premium']; ['Oxford-Oxford Standard']
+user_029,Mobile,40314569,60171000,33,849,['Samsung-Samsung Plus'],['Xiaomi-Xiaomi 16']; ['JBL-JBL Soundcore 10']; ['Lenovo-Lenovo Premium']
+user_030,Laptop,61833620,63746000,3,133,['GoPro-GoPro Osmo Action'],['ASUS-ASUS Nitro 5']; ['Adidas-Adidas 574']
+user_031,Gaming,71393840,77602000,8,172,['Penguin-Penguin Plus'],['Cougar-Cougar Premium']; ['Samsung-Samsung Standard']
+user_032,Home Appliances,47503780,76619000,38,1371,['Razer-Razer MX Keys 10'],['Bosch-Bosch Plus']; ['Nikon-Nikon D']
+user_033,Fashion,5445120,5672000,4,197,['MSI-MSI Nitro 2'],['New Balance-New Balance Suede']; ['Manning-Manning Pro']
+user_034,Mobile,46157480,75668000,39,609,['Sony-Sony Switch OLED'],['Google-Google 14T']; ['WD-WD P5 Plus 27']
+user_035,Home Appliances,59880360,68828000,13,71,['Canon-Canon EOS'],['Daikin-Daikin Premium']; ['Puma-Puma Standard']
+user_036,Books,3334769,4833000,31,214,['Lenovo-Lenovo MacBook Air 16'],['Cambridge-Cambridge Advanced']; ['Apple-Apple Advanced']
+user_037,Gaming,65682580,67714000,3,156,['Logitech-Logitech MX Keys 15'],['Razer-Razer Premium']; ['Whirlpool-Whirlpool Advanced']
+user_038,Fashion,2940300,2970000,1,35,['Sony-Sony Alpha'],['Adidas-Adidas Pro']; ['Dell-Dell ZenBook 9']
+user_039,Mobile,32501760,33856000,4,896,['No Starch Press-No Starch Press Advanced'],['Samsung-Samsung S24']; ['Kingston-Kingston KC3000 2']
+user_040,Home Appliances,21243200,24140000,12,305,['Nintendo-Nintendo Pro Controller'],['Beko-Beko Pro']; ['Nikon-Nikon D']
